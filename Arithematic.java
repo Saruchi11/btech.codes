@@ -14,3 +14,5 @@ public class Arithematic {
            System.out.println("modulus: " + (num1%num2));
       }
    }
+
+   
